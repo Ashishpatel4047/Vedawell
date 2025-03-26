@@ -1,4 +1,4 @@
-Veda Well Chatbot: Bridging Ancient Wisdom with Modern AI – Enhanced with Retrieval Augmented Generation (RAG)
+ Veda Well Chatbot: Bridging Ancient Wisdom with Modern AI – Enhanced with Retrieval Augmented Generation (RAG)
 The Veda Well Chatbot is a revolutionary AI-powered platform, meticulously crafted to democratize access to the profound knowledge systems of ancient India, specifically the Atharvaveda and Ayurveda, by seamlessly integrating them with cutting-edge Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). This project endeavors to bridge the chasm between timeless wisdom and contemporary accessibility, making traditional Indian medicine, yoga, meditation, and Vedic spirituality readily available to a global audience through an intuitive, multilingual chatbot experience.
 
 Core Philosophy and Guiding Principles:
